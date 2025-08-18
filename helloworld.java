@@ -1,6 +1,5 @@
-#include<stdio.h>
-void main()
-{
-    printf("hello prisha");
-// Combined changes: featureA + featureB
+public class helloworld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Vandita!");
+    }
 }
