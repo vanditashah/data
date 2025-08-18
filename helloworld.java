@@ -2,4 +2,5 @@
 void main()
 {
     printf("hello prisha");
-}// Change from featureA
+// Combined changes: featureA + featureB
+}
